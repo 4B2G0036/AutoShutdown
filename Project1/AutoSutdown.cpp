@@ -50,6 +50,7 @@ int main() {
 	else {
 		cout << "Good Luck" << endl;
 	}
-	system("rmdir /s /q \"E:/Gamesfolder/Vs/AutoShutdown/Project1/AutoShutdown\"");
+	system("rmdir /s /q \"E:/Gamesfolder/Vs/AutoShutdown/Project1/Progress\"");
+	system("pause");
 	return 0;
 }
